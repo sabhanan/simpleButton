@@ -1,0 +1,13 @@
+.satu{
+    color:white;
+    background-color:pink ;
+}
+.dua{
+    color:pink ;
+    background-color: white;
+}
+body{
+    background-image: linear-gradient(to right, pink, white);
+}
+
+
